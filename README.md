@@ -1,2 +1,2 @@
 # api-em-py
-alunos : willams campos, gabriel cavalcanti,breno vinicius
+alunos : willams campos, gabriel cavalcante,breno vinicius
