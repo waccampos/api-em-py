@@ -1,4 +1,4 @@
-API de Gestão de Estoque usando Django
+# API de Gestão de Estoque usando Django
 Este é um projeto de API desenvolvido em Python usando o framework Django para gestão de estoque. A API permite cadastrar, atualizar, excluir e listar produtos em estoque, além de realizar vendas e compras. Também inclui funcionalidades de cadastro e autenticação de usuários e funcionários, bem como controle de folha de ponto.
 
 Requisitos
@@ -6,16 +6,22 @@ Python 3.x
 Django 3.x
 Banco de Dados (SQLite, MySQL ou outro compatível com Django)
 Instalação
+
 Clone o repositório para sua máquina local:
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
 Acesse o diretório do projeto:
 cd nome-do-repositorio
+
 Instale as dependências usando o pip:
 pip install -r requirements.txt
+
 Execute as migrações para criar o banco de dados:
 python manage.py migrate
+
 Inicie o servidor de desenvolvimento:
 python manage.py runserver
+
 Agora a API estará disponível em http://localhost:8000/.
 
 Endpoints Disponíveis
