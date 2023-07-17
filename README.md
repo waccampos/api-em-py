@@ -28,8 +28,8 @@ Agora a API estará disponível em http://localhost:8000/.
 
 ## Endpoints Disponíveis
 ### Cadastro de Usuário
-Endpoint: /cadastro/
-Método: POST
+Endpoint: /cadastro/ 
+Método: POST 
 Parâmetros: JSON contendo informações do usuário a ser cadastrado (cpf, nome, senha, idade, email, login).
 Retorno: JSON com o status do cadastro ou mensagem de erro.
 
